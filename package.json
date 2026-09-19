@@ -1,0 +1,26 @@
+{
+  "name": "oracle-go",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Oracle Go - one calm, accessible app for every way to travel in 2100 (Cre8x 3.0, Round 01)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource-variable/lexend": "^5.2.0",
+    "@fontsource/atkinson-hyperlegible": "^5.2.0",
+    "lucide-react": "^0.469.0",
+    "next": "^15.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.6.0"
+  }
+}

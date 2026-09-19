@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 190" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E7EEFF"/><stop offset="1" stop-color="#FFF1DA"/></linearGradient>
+</defs>
+<rect width="360" height="190" rx="24" fill="url(#bg)"/>
+<circle cx="300" cy="46" r="26" fill="#FFD98A" opacity=".7"/>
+<rect x="0" y="160" width="360" height="30" fill="#CBD8F5"/>
+<rect x="0" y="160" width="360" height="4" fill="#19D3C5"/>
+<!-- elder with cane -->
+<g transform="rotate(-5 52 150)">
+  <circle cx="52" cy="70" r="12" fill="#C68A5B"/><path d="M40 68q12-14 24 0q-2-10-12-11t-12 11z" fill="#DADFEA"/>
+  <rect x="39" y="84" width="26" height="54" rx="11" fill="#7B8CDE"/>
+  <rect x="42" y="134" width="8" height="26" rx="3" fill="#2B3A67"/><rect x="54" y="134" width="8" height="26" rx="3" fill="#2B3A67"/>
+  <path d="M68 108q6 0 6 6v46" stroke="#5A3E2B" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+</g>
+<!-- wheelchair user -->
+<g>
+  <circle cx="126" cy="76" r="12" fill="#8D5A3B"/><path d="M114 72q12-14 24 0q-2-6-12-6t-12 6z" fill="#1B1B2F"/>
+  <rect x="114" y="90" width="24" height="42" rx="10" fill="#19A58C"/>
+  <rect x="124" y="124" width="34" height="10" rx="5" fill="#2B3A67"/><rect x="152" y="124" width="8" height="26" rx="3" fill="#2B3A67"/>
+  <path d="M110 92v50h44" stroke="#0A1F44" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="122" cy="142" r="19" fill="none" stroke="#0A1F44" stroke-width="4"/><circle cx="122" cy="142" r="3" fill="#0A1F44"/>
+  <circle cx="160" cy="153" r="6" fill="none" stroke="#0A1F44" stroke-width="3"/>
+</g>
+<!-- parent and child -->
+<g>
+  <circle cx="204" cy="68" r="13" fill="#E0AC82"/><path d="M191 66q13-16 26 0q-4-12-13-12t-13 12z" fill="#3B2A22"/>
+  <rect x="191" y="83" width="26" height="56" rx="11" fill="#FF7A59"/>
+  <rect x="194" y="136" width="9" height="25" rx="3" fill="#2B3A67"/><rect x="206" y="136" width="9" height="25" rx="3" fill="#2B3A67"/>
+  <circle cx="236" cy="114" r="9" fill="#E9B98F"/><rect x="228" y="124" width="16" height="26" rx="7" fill="#FFD166"/>
+  <rect x="230" y="148" width="5" height="13" rx="2" fill="#2B3A67"/><rect x="238" y="148" width="5" height="13" rx="2" fill="#2B3A67"/>
+  <path d="M215 102Q226 108 230 126" stroke="#E0AC82" stroke-width="5" fill="none" stroke-linecap="round"/>
+</g>
+<!-- teen with backpack and phone -->
+<g>
+  <rect x="266" y="88" width="13" height="36" rx="6" fill="#0A1F44"/>
+  <circle cx="288" cy="72" r="12" fill="#F1C9A5"/><path d="M276 70q12-16 24 0q-3-10-12-10t-12 10z" fill="#1B1B2F"/>
+  <rect x="276" y="85" width="25" height="52" rx="11" fill="#6D4AFF"/>
+  <rect x="279" y="134" width="8" height="27" rx="3" fill="#2B3A67"/><rect x="290" y="134" width="8" height="27" rx="3" fill="#2B3A67"/>
+  <path d="M300 104q10 0 12 -8" stroke="#F1C9A5" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <rect x="308" y="82" width="10" height="17" rx="3" fill="#19D3C5"/>
+</g>
+<!-- traveller with suitcase -->
+<g>
+  <circle cx="338" cy="80" r="11" fill="#B9774F"/><path d="M327 78q11-14 22 0q-3-9-11-9t-11 9z" fill="#2A1A14"/>
+  <rect x="327" y="93" width="23" height="46" rx="10" fill="#0EA5A4"/>
+  <rect x="329" y="136" width="8" height="25" rx="3" fill="#2B3A67"/><rect x="340" y="136" width="8" height="25" rx="3" fill="#2B3A67"/>
+  <rect x="312" y="132" width="15" height="28" rx="4" fill="#FFB020"/><path d="M316 132v-6h7v6" stroke="#B36A00" stroke-width="2" fill="none"/>
+</g>
+</svg>
